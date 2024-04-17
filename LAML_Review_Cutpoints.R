@@ -1,6 +1,7 @@
 ## Cutpoint determination
 
 library(survminer)
+library(ggplot2)
 library(survival)
 
 # Upload consolidated clinical and expression dataset
